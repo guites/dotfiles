@@ -30,3 +30,7 @@ set smartindent
 
 " Double j to esc baby!
 imap jj <Esc>
+
+" Custom syntax highlight via vim-polyglot
+" Installed using Vim 8 built-in package manager method
+" https://github.com/sheerun/vim-polyglot?tab=readme-ov-file#installation
